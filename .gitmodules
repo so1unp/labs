@@ -1,0 +1,30 @@
+[submodule "lab-01"]
+	path = lab-01
+	url = git@github.com:so1unp/lab-01.git
+[submodule "lab-02"]
+	path = lab-02
+	url = git@github.com:so1unp/lab-02.git
+[submodule "lab-03"]
+	path = lab-03
+	url = git@github.com:so1unp/lab-03.git
+[submodule "lab-04"]
+	path = lab-04
+	url = git@github.com:so1unp/lab-sched.git
+[submodule "lab-05"]
+	path = lab-05
+	url = git@github.com:so1unp/lab-threads.git
+[submodule "lab-06"]
+	path = lab-06
+	url = git@github.com:so1unp/lab-sync.git
+[submodule "lab-07"]
+	path = lab-07
+	url = git@github.com:so1unp/lab-ipc.git
+[submodule "lab-08"]
+	path = lab-08
+	url = git@github.com:so1unp/lab-io.git
+[submodule "lab-09"]
+	path = lab-09
+	url = git@github.com:so1unp/lab-memory.git
+[submodule "lab-10"]
+	path = lab-10
+	url = git@github.com:so1unp/lab-fs.git
