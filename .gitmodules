@@ -28,3 +28,6 @@
 [submodule "lab-10"]
 	path = lab-10
 	url = git@github.com:so1unp/lab-fs.git
+[submodule "progs"]
+	path = progs
+	url = git@github.com:so1unp/progs.git

@@ -12,10 +12,11 @@
 - Lab-08: Entrada / Salida.
 - Lab-09: Administración de memoria.
 - Lab-10: Sistema de archivos.
+- progs:  Soluciones.
 
 ## Compilación
 
-Para compilar los programas:
+Para compilar todos los programas en un laboratorio ejecutar:
 
 ```
 make
